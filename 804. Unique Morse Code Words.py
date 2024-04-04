@@ -5,7 +5,7 @@ morse_code_table = {
     'y': "-.--", 'z': "--.."
 }
 
-result = set()
+result = set() 
 
 for w in words:
     mor=""
