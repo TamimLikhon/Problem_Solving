@@ -1,6 +1,5 @@
 s = "(1+(2*3)+((8)/4))+1"
 
-n = len(s)
 current_depth = 0
 max_depth = 0
 
